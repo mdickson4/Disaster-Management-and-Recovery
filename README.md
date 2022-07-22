@@ -1,2 +1,2 @@
 # Disaster-Management-and-Recovery
-A repository for TCS to experiment on 
+A repository for experimentation, discovery, and the creation of collaborative tools intended for the disaster management and recovery industries.
